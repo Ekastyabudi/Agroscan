@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Agroscan/static/css/main.c1864f36.css",
+    "main.js": "/Agroscan/static/js/main.cd8768c8.js",
+    "index.html": "/Agroscan/index.html",
+    "main.c1864f36.css.map": "/Agroscan/static/css/main.c1864f36.css.map",
+    "main.cd8768c8.js.map": "/Agroscan/static/js/main.cd8768c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1864f36.css",
+    "static/js/main.cd8768c8.js"
+  ]
+}
